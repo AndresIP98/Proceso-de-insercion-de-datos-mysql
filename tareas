@@ -1,0 +1,7 @@
+
+-Proceso de inserción de datos, en este caso directamente en mysql
+
+codigo:
+INSERT INTO registrosvarios (nombre, edad, profesion, residencia, direccion)
+VALUES ('Pedro', '21', 'profesor', 'arauca', 'calle16 12-5');
+
